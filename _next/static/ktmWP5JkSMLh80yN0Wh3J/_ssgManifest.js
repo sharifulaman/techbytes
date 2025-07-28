@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002Fcourse\u002F[slug]","\u002Fcourses","\u002Fcourses\u002F[page]","\u002Fstudio\u002F[[...tool]]","\u002Ftag\u002F[slug]","\u002Ftag\u002F[slug]\u002F[page]","\u002Ftopic\u002F[slug]","\u002Ftopic\u002F[slug]\u002F[page]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
